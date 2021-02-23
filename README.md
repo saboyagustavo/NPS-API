@@ -21,3 +21,13 @@ A complete application built using the following languages/technologies/framewor
 -   Node.js
 -   Express
 -   YARN
+-   Insomnia
+
+## :rocket: NLW Node.js Learning Pathway
+
+### Lesson#1 - Towards Next Level
+
+-   [x] Creating a Node.js project:
+    -   [x] Learning HTTP mostly used verbs and methods;
+    -   [x] Implementing GET and POST routes;
+    -   [x] Setting up Insomnia to test the routes;
