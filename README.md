@@ -52,8 +52,8 @@ A complete application built using the following languages/technologies/framewor
 -   [x] Refactoring the controller
     -   [x] Create a user's repository
     -   [x] Change in responsabilities: from controller to created user's repository
--   [] Implement a survey for migration queries
--   [] Implement a controller for queries
+-   [x] Implement a survey for migration queries
+-   [x] Implement a controller for queries
 
 #### Other content
 
