@@ -40,3 +40,7 @@ A complete application built using the following languages/technologies/framewor
 -   [x] Learn about approaches on manipulating databases with node
 -   [x] Install and configure TypeORM on the application
 -   [x] Create user migration
+-   [x] Create user model
+-   [x] Create user controller
+    -   [x] Implement a business rule: must not be possible to create users with same email;
+-   [x] Create a user route
