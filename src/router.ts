@@ -9,5 +9,6 @@ router.post('/users', userController.create);
 
 const surveyController = new SurveyController();
 router.post('/surveys', surveyController.create);
+router.get('/surveys', surveyController.show);
 
 export { router };

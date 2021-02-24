@@ -25,6 +25,7 @@ A complete application built using the following languages/technologies/framewor
 -   TypeORM
 -   SQLite
 -   BeeKeeper Studio
+-   Jest
 
 ## :rocket: NLW Node.js Learning Pathway
 
@@ -52,8 +53,8 @@ A complete application built using the following languages/technologies/framewor
 -   [x] Refactoring the controller
     -   [x] Create a user's repository
     -   [x] Change in responsabilities: from controller to created user's repository
--   [x] Implement a survey for migration queries
--   [x] Implement a controller for queries
+-   [x] Implement a migration for the survey's queries
+-   [x] Implement a controller for surveys
 
 #### Other content
 
