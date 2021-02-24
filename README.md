@@ -22,6 +22,7 @@ A complete application built using the following languages/technologies/framewor
 -   Express
 -   YARN
 -   Insomnia
+-   TypeORM
 
 ## :rocket: NLW Node.js Learning Pathway
 
@@ -31,3 +32,9 @@ A complete application built using the following languages/technologies/framewor
     -   [x] Learning HTTP mostly used verbs and methods;
     -   [x] Implementing GET and POST routes;
     -   [x] Setting up Insomnia to test the routes;
+
+### Lesson#2 - Databases
+
+-   [x] Learn about approaches on manipulating databases with node
+-   [x] Install and configure TypeORM on the application
+-   [ ] Create user migration
