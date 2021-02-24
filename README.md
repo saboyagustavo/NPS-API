@@ -23,6 +23,8 @@ A complete application built using the following languages/technologies/framewor
 -   YARN
 -   Insomnia
 -   TypeORM
+-   SQLite
+-   BeeKeeper Studio
 
 ## :rocket: NLW Node.js Learning Pathway
 
@@ -37,4 +39,4 @@ A complete application built using the following languages/technologies/framewor
 
 -   [x] Learn about approaches on manipulating databases with node
 -   [x] Install and configure TypeORM on the application
--   [ ] Create user migration
+-   [x] Create user migration
