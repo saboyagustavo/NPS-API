@@ -44,3 +44,18 @@ A complete application built using the following languages/technologies/framewor
 -   [x] Create user controller
     -   [x] Implement a business rule: must not be possible to create users with same email;
 -   [x] Create a user route
+
+### Lesson#3 - Testing the app
+
+#### SOW - Statement of Work
+
+-   [x] Refactoring the controller
+    -   [x] Create a user's repository
+    -   [x] Change in responsabilities: from controller to created user's repository
+-   [] Implement a survey for migration queries
+-   [] Implement a controller for queries
+
+#### Other content
+
+-   [] What are automated tests?
+-   [] How to implement the first test
