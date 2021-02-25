@@ -62,8 +62,9 @@ A complete application built using the following languages/technologies/framewor
 
 #### SOW - Statement of Work
 
--   [] Implement surveys_users table
-    -   [] Create a SurveysUser migration
-    -   [] Create a SurveysUserRepository
-    -   [] Create a SurveyUser model
-    -   [] Create a SendMailController
+-   [x] Implement surveys_users table and create method via POST
+    -   [x] Create a SurveysUser migration
+    -   [x] Create a SurveyUser model
+    -   [x] Create a SurveysUserRepository
+    -   [x] Create a SendMailController
+    -   [x] Create a sendMail route
