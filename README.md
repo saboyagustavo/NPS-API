@@ -57,3 +57,13 @@ A complete application built using the following languages/technologies/framewor
 -   [x] Implement a controller for surveys
 -   [x] What are automated tests?
 -   [x] How to implement integration tests
+
+### Lesson#3 - Mail sending
+
+#### SOW - Statement of Work
+
+-   [] Implement surveys_users table
+    -   [] Create a SurveysUser migration
+    -   [] Create a SurveysUserRepository
+    -   [] Create a SurveyUser model
+    -   [] Create a SendMailController
