@@ -55,8 +55,5 @@ A complete application built using the following languages/technologies/framewor
     -   [x] Change in responsabilities: from controller to created user's repository
 -   [x] Implement a migration for the survey's queries
 -   [x] Implement a controller for surveys
-
-#### Other content
-
--   [] What are automated tests?
--   [] How to implement the first test
+-   [x] What are automated tests?
+-   [x] How to implement integration tests
