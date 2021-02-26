@@ -26,6 +26,8 @@ A complete application built using the following languages/technologies/framewor
 -   SQLite
 -   BeeKeeper Studio
 -   Jest
+-   Nodemailer
+-   Handlebars
 
 ## :rocket: NLW Node.js Learning Pathway
 
@@ -75,3 +77,4 @@ A complete application built using the following languages/technologies/framewor
     -   [x] Create a SendMailService
     -   [x] Update at SendMailController
 -   [x] Send a functional mail through the application
+-   [x] Emebed a html styled template with Handlebars
