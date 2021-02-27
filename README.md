@@ -60,7 +60,7 @@ A complete application built using the following languages/technologies/framewor
 -   [x] What are automated tests?
 -   [x] How to implement integration tests
 
-### Lesson#3 - Mail sending
+### Lesson#4 - Mail sending
 
 #### SOW - Statement of Work
 
@@ -78,3 +78,14 @@ A complete application built using the following languages/technologies/framewor
     -   [x] Update at SendMailController
 -   [x] Send a functional mail through the application
 -   [x] Emebed a html styled template with Handlebars
+
+### Lesson#5 - Validations and finishing the NPS API
+
+#### SOW - Statement of Work
+
+-   [ ] Refactor the SendMailController
+-   [ ] Create controller of users answers
+-   [ ] Validate that user exists
+-   [ ] Process the user's answered rate
+-   [ ] Create controller that calculate NPS
+-   [ ] Implement validations
