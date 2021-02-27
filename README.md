@@ -83,7 +83,7 @@ A complete application built using the following languages/technologies/framewor
 
 #### SOW - Statement of Work
 
--   [ ] Refactor the SendMailController
+-   [x] Refactor the SendMailController
 -   [ ] Create controller of users answers
 -   [ ] Validate that user exists
 -   [ ] Process the user's answered rate
