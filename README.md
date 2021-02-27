@@ -84,8 +84,9 @@ A complete application built using the following languages/technologies/framewor
 #### SOW - Statement of Work
 
 -   [x] Refactor the SendMailController
--   [ ] Create controller of users answers
--   [ ] Validate that user exists
+-   [x] Create controller of users answers
+-   [x] Validate that user exists
+-   [x] Validate if the survey was already answered
 -   [ ] Process the user's answered rate
 -   [ ] Create controller that calculate NPS
 -   [ ] Implement validations
