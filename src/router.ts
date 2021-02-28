@@ -1,5 +1,6 @@
 import { Router } from 'express';
 import { AnswerController } from './controllers/AnswerController';
+import { NpsController } from './controllers/NpsController';
 import { SendMailController } from './controllers/SendMailController';
 import { SurveyController } from './controllers/SurveyController';
 import { UserController } from './controllers/UserController';
@@ -18,5 +19,8 @@ router.post('/sendMail', sendMailController.execute);
 
 const answerController = new AnswerController();
 router.get('/answers/:value', answerController.execute);
+
+const npsController = new NpsController();
+router.get('/nps/:survey_id', npsController.execute);
 
 export { router };
