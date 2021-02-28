@@ -13,7 +13,7 @@
         background: hsl(258, 74%, 62%);
         width: 15px;
         padding: 10px;
-        margin: 5px;
+        margin: 1px;
         border-radius: 6px;
         color: #FFF;
         text-align: center;
@@ -35,6 +35,7 @@
         width: 350px;
         display: flex;
         justify-content: space-between;
+        margin-bottom: 5px
     }
 </style>
 
@@ -53,6 +54,7 @@
 
     {{!-- expected to be somewhat like... https://localhost:3333/answers${nota}?u={id} --}}
     <div class="answers">
+        <a class="value" href="{{link}}/0?u={{id}}">0</a>
         <a class="value" href="{{link}}/1?u={{id}}">1</a>
         <a class="value" href="{{link}}/2?u={{id}}">2</a>
         <a class="value" href="{{link}}/3?u={{id}}">3</a>
