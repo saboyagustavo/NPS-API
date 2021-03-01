@@ -15,7 +15,7 @@ This is a web application for Net Promoter Score (NPS), back-end and Restful API
 
 ## :hammer_and_wrench: Technologies
 
-A complete application built using the following languages/technologies/frameworks:
+A complete application built using the following languages/technologies/libraries/frameworks:
 
 -   TypeScript
 -   Node.js
@@ -28,6 +28,7 @@ A complete application built using the following languages/technologies/framewor
 -   Jest
 -   Nodemailer
 -   Handlebars
+-   Yup
 
 ## :rocket: NLW Node.js Learning Pathway
 
@@ -89,4 +90,6 @@ A complete application built using the following languages/technologies/framewor
 -   [x] Validate if the survey was already answered
 -   [x] Process the user's answered rate
 -   [x] Create controller that calculate NPS
+-   [x] Install Yup validation library
 -   [x] Implement validations
+-   [x] Refactor test enviroment to be able to run in al OSs
