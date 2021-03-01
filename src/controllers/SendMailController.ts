@@ -5,6 +5,7 @@ import { UsersRepository } from '../repositories/UsersRepository';
 import { SurveysRepository } from '../repositories/SurveysRepository';
 import { SurveysUsersRepository } from '../repositories/SurveysUsersRepository';
 import SendMailService from '../services/SendMailService';
+import { AppError } from '../errors/AppError';
 
 class SendMailController {
     async execute(request: Request, response: Response) {
@@ -37,9 +38,7 @@ class SendMailController {
         });
 
         if (surveysUsers && surveysUsers.value !== null) {
-            return response.status(400).json({
-                error: 'This user has already answered this survey!',
-            });
+            throw new AppError('This user has already answered this survey!');
         }
 
         const variables = {

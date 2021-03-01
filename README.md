@@ -93,3 +93,4 @@ A complete application built using the following languages/technologies/librarie
 -   [x] Install Yup validation library
 -   [x] Implement validations
 -   [x] Refactor test enviroment to be able to run in al OSs
+-   [x] Implment an standard error treatment instance
