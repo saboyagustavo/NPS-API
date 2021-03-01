@@ -17,18 +17,18 @@ This is a web application for Net Promoter Score (NPS), back-end and Restful API
 
 A complete application built using the following languages/technologies/libraries/frameworks:
 
--   TypeScript
--   Node.js
--   Express
--   YARN
--   Insomnia
--   TypeORM
--   SQLite
--   BeeKeeper Studio
--   Jest
--   Nodemailer
--   Handlebars
--   Yup
+-   [TypeScript](https://www.typescriptlang.org/)
+-   [Node.js](https://nodejs.org/en/)
+-   [Express](https://expressjs.com/pt-br/)
+-   [yarn](https://yarnpkg.com/)
+-   [Insomnia](https://insomnia.rest/)
+-   [TypeORM](https://typeorm.io/)
+-   [SQLite](https://www.sqlite.org/index.html)
+-   [BeeKeeper Studio](https://www.beekeeperstudio.io/)
+-   [Jest](https://jestjs.io/)
+-   [Nodemailer](https://nodemailer.com/about/)
+-   [Handlebars](https://handlebarsjs.com/)
+-   [Yup](https://github.com/jquense/yup)
 
 ## :rocket: NLW Node.js Learning Pathway
 
