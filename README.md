@@ -88,5 +88,5 @@ A complete application built using the following languages/technologies/framewor
 -   [x] Validate that user exists
 -   [x] Validate if the survey was already answered
 -   [x] Process the user's answered rate
--   [ ] Create controller that calculate NPS
--   [ ] Implement validations
+-   [x] Create controller that calculate NPS
+-   [x] Implement validations
